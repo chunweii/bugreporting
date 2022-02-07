@@ -1,0 +1,47 @@
+====== New CATcher v3.4.1 Session Log ======
+2/4/2022, 10:04:10 PM
+AppConfig,[object Object]
+Mode web
+Obtained authorisation code from Github
+Retrieving access token from Github
+Error in data fetched from access token URL: Error: bad_code
+Error: bad_code
+Error: bad_code
+    at http://localhost:4200/main.js:9036:23
+    at ZoneDelegate.invoke (http://localhost:4200/polyfills.js:3461:26)
+    at Object.onInvoke (http://localhost:4200/vendor.js:101088:33)
+    at ZoneDelegate.invoke (http://localhost:4200/polyfills.js:3460:52)
+    at Zone.run (http://localhost:4200/polyfills.js:3226:43)
+    at http://localhost:4200/polyfills.js:3957:36
+    at ZoneDelegate.invokeTask (http://localhost:4200/polyfills.js:3493:31)
+    at Object.onInvokeTask (http://localhost:4200/vendor.js:101069:33)
+    at ZoneDelegate.invokeTask (http://localhost:4200/polyfills.js:3492:60)
+    at Zone.runTask (http://localhost:4200/polyfills.js:3270:47)
+
+====== New CATcher v3.4.1 Session Log ======
+2/4/2022, 10:04:17 PM
+AppConfig,[object Object]
+Mode web
+Selected Settings Repo: CATcher-org/public_data
+Starting authentication
+Redirecting for Github authentication
+
+====== New CATcher v3.4.1 Session Log ======
+2/4/2022, 10:04:26 PM
+AppConfig,[object Object]
+Mode web
+Obtained authorisation code from Github
+Retrieving access token from Github
+Sucessfully obtained access token
+Selected Settings Repo: CATcher-org/public_data
+Starting authentication
+Redirecting for Github authentication
+
+====== New CATcher v3.4.1 Session Log ======
+2/4/2022, 10:05:17 PM
+AppConfig,[object Object]
+Mode web
+Obtained authorisation code from Github
+Retrieving access token from Github
+Sucessfully obtained access token
+Successfully authenticated with session: 1643983818621-24b918a4-cd1e-4014-acb5-815387f07dcd
